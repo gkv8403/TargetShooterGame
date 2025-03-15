@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\Target Shooter Game Feature\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93B4DBC6-4151-BCA9-6E19-255AAB5AD322}|Assembly-CSharp.csproj|d:\\project\\target shooter game feature\\assets\\scripts\\ui\\minimapfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B4DBC6-4151-BCA9-6E19-255AAB5AD322}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\minimapfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B4DBC6-4151-BCA9-6E19-255AAB5AD322}|Assembly-CSharp.csproj|D:\\Project\\Target Shooter Game Feature\\assets\\scripts\\managers\\targetfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B4DBC6-4151-BCA9-6E19-255AAB5AD322}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\targetfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B4DBC6-4151-BCA9-6E19-255AAB5AD322}|Assembly-CSharp.csproj|D:\\Project\\Target Shooter Game Feature\\assets\\scripts\\game\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B4DBC6-4151-BCA9-6E19-255AAB5AD322}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B4DBC6-4151-BCA9-6E19-255AAB5AD322}|Assembly-CSharp.csproj|d:\\project\\target shooter game feature\\assets\\scripts\\managers\\targetspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B4DBC6-4151-BCA9-6E19-255AAB5AD322}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\targetspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B4DBC6-4151-BCA9-6E19-255AAB5AD322}|Assembly-CSharp.csproj|D:\\Project\\Target Shooter Game Feature\\assets\\scripts\\managers\\itargetfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B4DBC6-4151-BCA9-6E19-255AAB5AD322}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\itargetfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B4DBC6-4151-BCA9-6E19-255AAB5AD322}|Assembly-CSharp.csproj|D:\\Project\\Target Shooter Game Feature\\assets\\scripts\\managers\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B4DBC6-4151-BCA9-6E19-255AAB5AD322}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B4DBC6-4151-BCA9-6E19-255AAB5AD322}|Assembly-CSharp.csproj|D:\\Project\\Target Shooter Game Feature\\assets\\scripts\\game\\playershooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B4DBC6-4151-BCA9-6E19-255AAB5AD322}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\playershooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MiniMapFollow.cs",
+              "DocumentMoniker": "D:\\Project\\Target Shooter Game Feature\\Assets\\Scripts\\UI\\MiniMapFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MiniMapFollow.cs",
+              "ToolTip": "D:\\Project\\Target Shooter Game Feature\\Assets\\Scripts\\UI\\MiniMapFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MiniMapFollow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:00:55.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TargetSpawner.cs",
+              "DocumentMoniker": "D:\\Project\\Target Shooter Game Feature\\Assets\\Scripts\\Managers\\TargetSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\TargetSpawner.cs",
+              "ToolTip": "D:\\Project\\Target Shooter Game Feature\\Assets\\Scripts\\Managers\\TargetSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\TargetSpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T04:55:58.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TargetFactory.cs",
+              "DocumentMoniker": "D:\\Project\\Target Shooter Game Feature\\Assets\\Scripts\\Managers\\TargetFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\TargetFactory.cs",
+              "ToolTip": "D:\\Project\\Target Shooter Game Feature\\Assets\\Scripts\\Managers\\TargetFactory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\TargetFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T04:54:35.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITargetFactory.cs",
+              "DocumentMoniker": "D:\\Project\\Target Shooter Game Feature\\Assets\\Scripts\\Managers\\ITargetFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\ITargetFactory.cs",
+              "ToolTip": "D:\\Project\\Target Shooter Game Feature\\Assets\\Scripts\\Managers\\ITargetFactory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\ITargetFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T04:53:45.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "D:\\Project\\Target Shooter Game Feature\\Assets\\Scripts\\Managers\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\ScoreManager.cs",
+              "ToolTip": "D:\\Project\\Target Shooter Game Feature\\Assets\\Scripts\\Managers\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\ScoreManager.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA2wCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T04:47:37.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Target.cs",
+              "DocumentMoniker": "D:\\Project\\Target Shooter Game Feature\\Assets\\Scripts\\Game\\Target.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Target.cs",
+              "ToolTip": "D:\\Project\\Target Shooter Game Feature\\Assets\\Scripts\\Game\\Target.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Target.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T04:45:05.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerShooter.cs",
+              "DocumentMoniker": "D:\\Project\\Target Shooter Game Feature\\Assets\\Scripts\\Game\\PlayerShooter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\PlayerShooter.cs",
+              "ToolTip": "D:\\Project\\Target Shooter Game Feature\\Assets\\Scripts\\Game\\PlayerShooter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\PlayerShooter.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T04:35:01.091Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
