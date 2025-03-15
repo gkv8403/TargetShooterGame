@@ -6,7 +6,7 @@ public class PlayerShooter : MonoBehaviour
     [Header("Shooting")]
     public GameObject projectilePrefab;
     public Transform shootPoint;
-    public float shootForce = 10f;
+    public float shootForce = 50f;
 
     [Header("Movement")]
     public float moveSpeed = 5f;
